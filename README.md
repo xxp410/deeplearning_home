@@ -1,2 +1,2 @@
 # deeplearning_home
-Deep Learning Study , Day day up
+深度学习的一些入门例程
